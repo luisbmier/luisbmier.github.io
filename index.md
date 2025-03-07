@@ -1,52 +1,23 @@
-# Nombre Completo
-
-## Datos de Contacto
-- **Correo Electrónico**: ejemplo@correo.com
-- **Teléfono**: +123 456 7890
-- **LinkedIn**: [Tu Perfil](https://www.linkedin.com/in/tu-perfil)
-- **GitHub**: [Tu GitHub](https://github.com/tu-usuario)
-
-## Experiencia Profesional
-
-### Puesto Actual - Empresa Actual
-*Fecha de Inicio - Fecha de Fin*
-
-Descripción de tus responsabilidades y logros.
-
-### Puesto Anterior - Empresa Anterior
-*Fecha de Inicio - Fecha de Fin*
-
-Descripción de tus responsabilidades y logros.
-
-## Educación
-
-### Título - Universidad
-*Fecha de Inicio - Fecha de Fin*
-
-Descripción del curso y logros importantes.
-
-## Habilidades
-
-- Habilidad 1
-- Habilidad 2
-- Habilidad 3
-
-## Idiomas
-
-- Idioma 1 (Nivel)
-- Idioma 2 (Nivel)
-
-## Certificaciones
-
-- Certificación 1
-- Certificación 2
-
-## Proyectos Destacados
-
-### Proyecto 1
-- **Descripción**: Breve descripción del proyecto.
-- **Tecnologías Utilizadas**: Lista de tecnologías.
-
-### Proyecto 2
-- **Descripción**: Breve descripción del proyecto.
-- **Tecnologías Utilizadas**: Lista de tecnologías.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Redirecting...</title>
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            var userLang = navigator.language || navigator.userLanguage;
+            if (userLang.startsWith("es")) {
+                window.location.href = "/index_ES.html"; // Redirect to Spanish version
+            } else {
+                window.location.href = "/index_EN.html"; // Redirect to English version
+            }
+        });
+    </script>
+</head>
+<body>
+    <p>Redirecting... If you are not redirected, choose: 
+        <a href="/index_EN.html">English</a> | <a href="/index_ES.html">Español</a>.
+    </p>
+</body>
+</html>
