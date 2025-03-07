@@ -20,7 +20,7 @@
 - Desarrollo de formaciones de ciberseguridad.
 - Analista de incidentes de seguridad.
 - Configuración de sistemas de redes.
-- **Github**: [Mi Perfil en redborder]:(https://github.com/ljblancoredborder)
+- **GitHub**: [Mi GitHub en Redborder](https://github.com/ljblancoredborder)
 
 ### Desarrollador de videojuegos UI/Blueprints - WBStudios
 *NOV 2021 - MAY 2022*
