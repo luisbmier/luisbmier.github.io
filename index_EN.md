@@ -1,6 +1,5 @@
-# Nombre Completo
-
 ## Datos de Contacto
+- **Nombre Completo**: Luis José Blanco Mier
 - **Correo Electrónico**: luisb.mier@gmail.com
 - **LinkedIn**: [Mi Perfil](https://www.linkedin.com/in/luis-jos%C3%A9-blanco-mier-821218129/)
 - **GitHub**: [Mi GitHub](https://github.com/luisbmier)
@@ -20,6 +19,8 @@
 - Desarrollo de tests de integración.
 - Desarrollo de formaciones de ciberseguridad.
 - Analista de incidentes de seguridad.
+- Configuración de sistemas de redes.
+- **Github**: [Mi Perfil en redborder]:(https://github.com/ljblancoredborder)
 
 ### Desarrollador de videojuegos UI/Blueprints - WBStudios
 *NOV 2021 - MAY 2022*
