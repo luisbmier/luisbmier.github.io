@@ -49,7 +49,9 @@ Implementación y optimización del sistema de navegación con gamepad para UIs,
 - Desarrollo de Software
 - Ciberseguridad
 - Machine Learning
+- Bash
 - Python
+- Ruby
 - Elixir
 - Unreal Engine
 - AWS
